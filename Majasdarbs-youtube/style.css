@@ -1,0 +1,175 @@
+@import url(fonts.css);
+
+.dropdown {
+  width: 18px;
+  height: 12px;
+}
+
+body {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.to-right {
+  fill: rgb(93, 155, 0);
+  transform: rotate(-90deg);
+}
+
+.dropdown {
+    padding-right: 28px;
+    padding-left: 27px;
+    padding-top: 22px;
+}
+
+.home {
+    padding-top: 45px;
+    padding-right: 26px;
+    padding-left: 26px;
+
+}
+
+.trending {
+    padding-top: 23px;
+    padding-right: 29.26px;
+    padding-left: 29px;
+}
+
+.subscriptions {
+    padding-top: 23px;
+    padding-right: 27.4px;
+    padding-left: 28px;
+}
+
+.line {
+    padding-top: 23.4px;
+    padding-bottom: 22px;
+}
+
+.libary {
+    padding-right: 26px;
+    padding-left: 26px;   
+}
+
+.history {
+    padding-top: 22px;
+    padding-right: 27.73px;
+    padding-left: 25px;
+}
+
+.your-videos {
+    padding-top: 23.5px;
+    padding-right: 27.49px;
+    padding-left: 28px;
+}
+
+.watch-later {
+    padding-top: 23.49px;
+    padding-right: 27.34px;
+    padding-left: 28px;  
+}
+
+.liked-videos {
+    padding-top: 23.34px;
+    padding-right: 27.5px;
+    padding-left: 28px;  
+}
+
+.show-more {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;    
+}
+
+.line2 {
+    padding-top: 27.59px;
+    padding-bottom: 16px;
+}
+
+.subscriptions {
+    font-weight: 500;
+    font-size: 14px;
+    color: #606060;
+    padding-top: 16px;
+    padding-left: 24px;    
+}
+
+.channel {
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-left: 24px;    
+}
+
+.dot {
+    padding-left: 83px;  
+}
+
+.more-from-youtube {
+    font-weight: 500;
+    font-size: 14px;
+    color: #606060;
+    padding-top: 16px;
+    padding-left: 24px;    
+}
+
+.youtube-premium {
+    padding-top: 21px;
+    padding-right: 26px;
+    padding-left: 26px;   
+}
+
+.gaming {
+    padding-top: 25.84px;
+    padding-right: 26px;
+    padding-left: 26px;    
+}
+
+.live {
+    padding-top: 25.84px;
+    padding-right: 26px;
+    padding-left: 26px;       
+}
+
+.line3 {
+    padding-top: 20px;
+}
+
+.settings {
+    padding-top: 18px;
+    padding-right: 26.5px;
+    padding-left: 26px; 
+}
+
+.report-history {
+    padding-top: 21px;
+    padding-right: 29px;
+    padding-left: 28px;   
+}
+
+.help {
+    padding-top: 22px;
+    padding-right: 26px;
+    padding-left: 26px;   
+}
+
+.send-feedback {
+    padding-top: 22px;
+    padding-right: 26px;
+    padding-left: 26px;    
+}
+
+.line4 {
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.bottom-txt {
+    font-weight: 500;
+    font-size: 12px;
+    color: #606060;
+    padding-left: 26px;    
+}
