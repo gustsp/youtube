@@ -1,18 +1,10 @@
-document.querySelector(".dropdown").addEventListener("click", function () {
-    document.querySelector(".side-menu").classList.add("active");
-    
-  
-    //Pievieno klasi
-    this.classList.add("active");
-  
-    //Noņem klasi
-    this.classList.remove("active");
-  
-    //pārbaudam vai satur klasi
-    if (this.classList.contains("active")) {
-        this.classList.remove("active");
-    }
-  });
 
-  
-  
+document.querySelector(".dropdown").addEventListener("click", function () {
+    if (this.classList.contains("active")) {
+        document.querySelector(".side-menu").classList.remove("active");
+        this.classList.remove("active");
+      } else {
+        document.querySelector(".side-menu").classList.add("active");
+        this.classList.add("active");
+      }
+});
