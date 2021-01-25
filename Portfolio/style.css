@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+
+body {
+    background-image: url('img/mini-profile-bg-01.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-attachment: fixed;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+div.transbox {
+    margin-top: 280px;
+    margin-left: 800px;
+    height: 250px;
+    width: 600px;
+    background-color: rgb(0, 0, 0, 0.5);
+    
+}
+    
+div.transbox h1 {
+    padding-top:  40px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div.transbox h2 {
+    padding-bottom: 40px;
+    text-align: center;
+    font-weight: normal;
+    color: white;
+    font-size: 20px;
+}
+
+div.transbox2 {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    height: 500px;
+    background-color: rgb(255, 255, 255, 0.6);
+}
+
+div.brownbox {
+    margin-right: 200px;
+    margin-left: auto;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(58, 38, 28, 0.9);
+}
+
+div.brownbox h1 {
+    text-align: center;
+    font-weight: normal;
+    color: white;
+    font-size: 40px;
+}
+
+
+.avatar {
+    padding: 48px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div.transbox2 h2{
+    margin-left: 100px;
+    font-weight: normal;
+    color: white;
+    font-size: 40px;
+}
+div.aboutme {
+    width: 1120px;
+    display:inline-block;
+}
+
+div.aboutme h1{
+    text-align: center;
+    font-weight: normal;
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 50px;
+} 
+
+div.aboutme p{
+    text-align: center;
+    font-weight: normal;
+    color: black;
+    font-size: 30px;
+    padding : 50px;
+}
